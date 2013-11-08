@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+body, body * {
+  font-family: "Open Sans" !important;
+  font-weight: 300;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: "Open Sans";
+  text-shadow: none;
+  letter-spacing: auto;
+  font-weight: 300;
+}
+
+.reveal table {
+  border-collapse: collapse;
+}
+.reveal table th, .reveal table td {
+  border: 5px solid #fff;
+  padding: 10px;
+}
+.reveal table th {
+  text-shadow: none;
+  font-weight: 700;
+  text-transform: uppercase;
+}
